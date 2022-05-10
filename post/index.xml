@@ -17,7 +17,8 @@
       <link>https://example.com/post/git/</link>
       <pubDate>Fri, 06 May 2022 19:55:31 +0300</pubDate>
       <guid>https://example.com/post/git/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Этот пост познакомит вас с термином «система управления версиями». Вы узнаете о git, принципах его работы и о том, что нужно сделать, чтобы начать с ним работать.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Содержание&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -48,12 +49,7 @@
       <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Fri, 06 May 2022 19:49:46 +0300</pubDate>
       <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
-&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
-&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
-&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
-&lt;h2 id=&#34;projects-&#34;&gt;projects: []&lt;/h2&gt;
+      <description>&lt;hr&gt;
 &lt;p&gt;Моя неделя была насыщенной и продуктивной. Помимо удовлетворения личных интересов в целом  я сделала четыре лабораторные работы, две из которых были по Операционным системам. Это были Лабораторные работы №5 и №6&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Лабораторная работа №3&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Лабораторная работа называлась «Анализ файловой системы Linux. Команды для работы с файлами и каталогами».&lt;/p&gt;

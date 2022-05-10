@@ -12,29 +12,27 @@
   <url>
     <loc></loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/tag/academic/</loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/categories/</loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/category/demo/</loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/post/</loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/tags/</loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/git/</loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2022-05-06T19:55:31+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2022-05-06T19:49:46+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
