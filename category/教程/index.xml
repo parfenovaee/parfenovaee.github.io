@@ -5,12 +5,41 @@
     <link>https://example.com/category/%E6%95%99%E7%A8%8B/</link>
       <atom:link href="https://example.com/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>教程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 May 2022 19:49:46 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>教程</title>
       <link>https://example.com/category/%E6%95%99%E7%A8%8B/</link>
     </image>
+    
+    <item>
+      <title>Моя 1 Неделя</title>
+      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <pubDate>Fri, 06 May 2022 19:49:46 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <description>&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
+&lt;h2 id=&#34;projects-&#34;&gt;projects: []&lt;/h2&gt;
+&lt;p&gt;Моя неделя была насыщенной и продуктивной. Помимо удовлетворения личных интересов в целом  я сделала четыре лабораторные работы, две из которых были по Операционным системам. Это были Лабораторные работы №5 и №6&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Лабораторная работа №3&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Лабораторная работа называлась «Анализ файловой системы Linux. Команды для работы с файлами и каталогами».&lt;/p&gt;
+&lt;p&gt;Ее целью было:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ознакомление с файловой системой Linux, её структурой, именами и содержанием каталогов.&lt;/li&gt;
+&lt;li&gt;приобретение практических навыков по применению команд для работы с файлами и каталогами, по управлению процессами (и работами), по проверке использования диска и обслуживанию файловой системы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В ходе этой работы я подробно изучила команды &lt;em&gt;&lt;strong&gt;сp&lt;/strong&gt;&lt;/em&gt; и &lt;em&gt;&lt;strong&gt;mv&lt;/strong&gt;&lt;/em&gt;, вспомнила команды &lt;em&gt;&lt;strong&gt;cat&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;touch&lt;/strong&gt;&lt;/em&gt;,&lt;em&gt;&lt;strong&gt;mkdir&lt;/strong&gt;&lt;/em&gt;. Прочла о том, что такое права доступа и научилась изменять с помощью команды chmod. Воспользовавшись командой man, узнала подробнее о командах термнала.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Лабораторная работа №4&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Тема следующей Лабораторной работы была «Поиск файлов. Перенаправление ввода-вывода. Просмотр запущенных процессов»&lt;/p&gt;
+&lt;p&gt;Цель работы: ознакомление с инструментами поиска файлов и фильтрации текстовых данных. Приобретение практических навыков: по управлению процессами (и заданиями), по проверке использования диска и обслуживанию файловых систем.&lt;/p&gt;
+&lt;p&gt;Лабораторная работа позволила узнать мне о потоках ввода-вывода и научила обращаться с ними (например, перенаправлять стандартный поток вывода (ls) в нужный мне файл). Также я изучила работу команд &lt;em&gt;&lt;strong&gt;find&lt;/strong&gt;&lt;/em&gt; и &lt;em&gt;&lt;strong&gt;grep&lt;/strong&gt;&lt;/em&gt;, научилась запускать фоновые процессы, получать о них информацию  и устранять их командой &lt;em&gt;&lt;strong&gt;kill&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Также на прошедшей неделе я продолжила осваивать язык программирования C++ и начала изучать новый, с которым никогда до этого не работала — Python.&lt;/p&gt;
+&lt;p&gt;Таким образом, за прошедшую неделю я изучила различные команды терминала Linux, которые позволяют работать с файлами, и продолжила развиваться в программировании.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
