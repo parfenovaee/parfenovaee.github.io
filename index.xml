@@ -106,20 +106,20 @@
     </item>
     
     <item>
-      <title>C&#43;&#43; Project</title>
+      <title>Проекты на C&#43;&#43;</title>
       <link>https://example.com/project/progect-c&#43;&#43;/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/progect-c&#43;&#43;/</guid>
-      <description>&lt;p&gt;All progects on C++.&lt;/p&gt;
+      <description>&lt;p&gt;Все проекты на C++.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Python Project</title>
+      <title>Проекты на Python</title>
       <link>https://example.com/project/example/</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;All progects on Python.&lt;/p&gt;
+      <description>&lt;p&gt;Все проекты на Python.&lt;/p&gt;
 </description>
     </item>
     

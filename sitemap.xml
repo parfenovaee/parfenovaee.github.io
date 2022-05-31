@@ -34,13 +34,13 @@
   <url>
     <loc>https://example.com/post/week4/</loc><lastmod>2022-05-23T21:52:12+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/c-/</loc><lastmod>2022-05-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/project/progect-c&#43;&#43;/</loc><lastmod>2022-05-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/c/</loc><lastmod>2022-05-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/project/</loc><lastmod>2022-05-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/python/</loc><lastmod>2022-05-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/project/progect-c&#43;&#43;/</loc><lastmod>2022-05-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/project/example/</loc><lastmod>2022-05-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
