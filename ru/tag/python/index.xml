@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Е.Е.Парфенова</title>
+    <link>https://parfenovaee.github.io/ru/tag/python/</link>
+      <atom:link href="https://parfenovaee.github.io/ru/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://parfenovaee.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Python</title>
+      <link>https://parfenovaee.github.io/ru/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>Проекты на Python</title>
+      <link>https://parfenovaee.github.io/ru/project/example/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://parfenovaee.github.io/ru/project/example/</guid>
+      <description>&lt;p&gt;Все проекты на Python.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

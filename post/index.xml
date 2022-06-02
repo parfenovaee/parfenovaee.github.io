@@ -1,29 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Elizaveta E. Parfenova</title>
+    <link>https://parfenovaee.github.io/post/</link>
+      <atom:link href="https://parfenovaee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 May 2022 21:52:25 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jun 2022 13:50:44 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://parfenovaee.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>https://parfenovaee.github.io/post/</link>
     </image>
     
     <item>
-      <title>Языки научного программирования</title>
-      <link>https://example.com/post/programming/</link>
-      <pubDate>Mon, 23 May 2022 21:52:25 +0300</pubDate>
-      <guid>https://example.com/post/programming/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В этой статье мы поговорим о научном программировании и о том, какие языке лучше использовать для работы в науке.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Содержание&lt;/strong&gt;&lt;/p&gt;
+      <title>Programming languages</title>
+      <link>https://parfenovaee.github.io/post/language/</link>
+      <pubDate>Thu, 02 Jun 2022 13:50:44 +0300</pubDate>
+      <guid>https://parfenovaee.github.io/post/language/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;There are a huge number of directions in IT: from creating games and applications to developing robots that completely replace human labor. There is no programming language that is equally fast at solving problems in any of these areas. So it&amp;rsquo;s important to understand that any lists of the best programming languages are subjective and usually based on how popular, versatile, and comfortable the language is.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt;.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Что такое научное программирование?&lt;/li&gt;
-&lt;li&gt;Где применяется научное программирование&lt;/li&gt;
-&lt;li&gt;Языки научного программирования
+&lt;li&gt;What are programming languages?&lt;/li&gt;
+&lt;li&gt;Where are programming languages used?&lt;/li&gt;
+&lt;li&gt;The top 5 programming languages currently in use.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**What are programming languages?&lt;/p&gt;
+&lt;p&gt;A programming language is a set of formal rules by which programs are written. A normal language is needed to communicate with people, but a programming language is needed to communicate with a computer. Like any natural language, it has a vocabulary - words, functions and operators - from which expressions are composed according to syntax rules. They have a clear, well-defined meaning, understandable to a computer - semantics.&lt;/p&gt;
+&lt;p&gt;**Where are programming languages used?&lt;/p&gt;
+&lt;p&gt;The uses of programming languages are very different. They depend on the area where the user wants to use them. For each area, there are &amp;ldquo;different&amp;rdquo; programming languages. Generally speaking, programming languages are used in web programming, game development, android development, Operating Systems development, software development, neural networks and data analysis.&lt;/p&gt;
+&lt;p&gt;**Top 5 programming languages currently&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;1. JavaScript language&lt;/em&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   Don&#39;t confuse it with Java - they are different and totally different languages.
+   JavaScript is used for graphics, mobile and web applications, and browser-based operating systems. It&#39;s very versatile and easy to learn.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;2. The Python language&lt;/em&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   Python is easy to learn and is often used to teach children programming, such as at the Skysmart online school. Python programs are close to a natural language, so it&#39;s great as a first language for a beginning programmer.
+   It is a very common language and a large number of projects have been implemented in it. Python is used extensively at Google and much of the source code for YouTube is written in it. It&#39;s also often used in creating robot machines.
+   The strengths of Python are its modularity and its ability to integrate with other languages, while the downsides are its slow speed and high memory consumption.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;3. Java language&lt;/em&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   A general-purpose programming language that consistently ranks high in popularity ratings. Applications in Java can run on any computer, for this purpose a virtual Java-machine is created. Mobile applications for the Android operating system are actively being developed in Java.
+   Successful projects such as RuneScape, Yahoo, Amazon, eBay and LinkedIn are written in Java.
+   Disadvantages of Java are slow programs and high RAM consumption.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;em&gt;4. C# language&lt;/em&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   The name of the language reads &amp;quot;C Sharp&amp;quot;. It was developed in 1998-2001 within Microsoft for creating applications.
+   C# belongs to the family of languages with C-like syntax, of which it is closest to C++ and Java. That is why C# has a rather complex syntax, which is considered a disadvantage.
+   Compared to C and C++, C# has safe code. C# is dozens of times slower than C.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;*5. rnr language.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;   Widely used for creating web applications, leading in applications for creating dynamic websites. PHP has undergone a rapid evolution and has become popular among programmers. However, it is often criticized by programmers for its inconsistent syntax.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Thus, programming languages are very diverse and exist as long as the purposes for which they are used are relevant. There are now thousands of programming languages used for their purposes, with a large number of people working on them.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My fifth week</title>
+      <link>https://parfenovaee.github.io/post/weeks/</link>
+      <pubDate>Thu, 02 Jun 2022 13:50:34 +0300</pubDate>
+      <guid>https://parfenovaee.github.io/post/weeks/</guid>
+      <description>&lt;p&gt;Another week has come to an end. Summer is finally here. This week I finished the last Labs on Operating Systems. These are labs #13 and #14. I also did some rather difficult tasks in Python. Let&amp;rsquo;s talk a little more about that.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory work №13&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The aim of the laboratory work was to obtain the simplest skills in developing, analyzing, testing and debugging applications in UNIX/Linux OS on the example of creating a calculator with simple functions in C programming language.&lt;/p&gt;
+&lt;p&gt;During this work, I created a rudimentary calculator and worked with it using the gdb debugger. It was quite interesting and informative and improved my skills with the console.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory Work №14&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this lab work was to gain practical skills working with named channels.&lt;/p&gt;
+&lt;p&gt;In the course of the work we learned how to run servers. I can&amp;rsquo;t say that this work was easy, but the main difficulty was not in launching channels, but in pre-writing files. But after carefully studying the theory, I managed it.&lt;/p&gt;
+&lt;p&gt;In Python this week, I learned how to build charts and histograms, which caused a little difficulty. I also wrote a program to read strings from a file and convert them into a dictionary. I found this task to be the most challenging.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So last week was quite productive and taught me a lot of new things in programming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages</title>
+      <link>https://parfenovaee.github.io/post/programming/</link>
+      <pubDate>Mon, 23 May 2022 21:52:25 +0300</pubDate>
+      <guid>https://parfenovaee.github.io/post/programming/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In this article we will talk about scientific programming and what languages are best for science work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Content&lt;/strong&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What is scientific programming?&lt;/li&gt;
+&lt;li&gt;Where is scientific programming used
+The languages of scientific programming
 &lt;ul&gt;
 &lt;li&gt;R&lt;/li&gt;
 &lt;li&gt;Python&lt;/li&gt;
@@ -31,265 +94,266 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Что такое научное программирование?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Научное программирование&lt;/em&gt; — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта, строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Где применяется научное программирование?&lt;/strong&gt;
+&lt;p&gt;**What is scientific programming?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Science programming&lt;/em&gt; is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the ultimate correctness and stability of the final product, strict separation of scientific and interface parts, individuality of algorithms, and prevalence of efficiency over universality.&lt;/p&gt;
+&lt;p&gt;**Where is scientific programming applied?
  
-Научное программирование лежит в основе любого современного глобального исследования. Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования, способных предоставить ученым надежный и точный инструмент для совершения открытий.&lt;/p&gt;
-&lt;p&gt;Ряд отраслей науки непосредственно зависят от уровня развития научного программирования. Так, своего исполнения ждут беспилотный транспорт, «умные» системы управления городским и сельским хозяйством, фондовыми биржами; ждут робототехника, генная инженерия, искусственный интеллект, превосходящий возможности человека.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Языки научного программирования&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В различных областях могут применяться разные существующие  языки программирования, но в этой статье я хочу поговорить о трех.&lt;/p&gt;
+Scientific programming is at the heart of all modern global research. All advanced technologies, from quantum computers to space programs, would not be possible without experts in science programming who can provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
+&lt;p&gt;A number of fields of science are directly dependent on the level of development of scientific programming. For example, unmanned vehicles, &amp;ldquo;smart&amp;rdquo; systems of urban and agricultural management, stock exchanges; robotics, genetic engineering, artificial intelligence, surpassing human capabilities, are waiting for their fulfillment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scientific programming languages&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Different fields may use different existing programming languages, but in this article I want to talk about three.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;1. R&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;R, который является прямым потомком старшего языка программирования S, был выпущен в далеком 1995 году и с тех пор становится все совершеннее. Написанный на таких языках как C и Fortran данный проект сегодня поддерживается Фондом языка R для статистических вычислений (R Foundation for Statistical Computing). Отличный набор высококачественных предметно-ориентированных пакетов с открытым исходным кодом. R имеет в своем распоряжении пакеты практически для любого количественного и статистического применения, которое можно только себе представить. Сюда входят нейронные сети, нелинейная регрессия, филогенетика, построение сложных диаграмм, графиков и многое-многое другое. Вместе с базовой установкой в довесок нам предоставляется возможность установки обширных встроенных функций и методов. Кроме того, R прекрасно обрабатывает данные матричной алгебры.R – мощный язык, который отличается наличием огромного выбора приложений для сбора статистических данных и визуализации данных, а тот факт, что он является ЯП с открытым исходным кодом, позволяет ему собрать большое количество поклонников среди разработчиков. Именно благодаря своей эффективности для первоначальных целей этому языку программирования удалось достичь широкой популярности.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;2. Python&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Python один из самых популярных языков программирования на данный момент. Он имеет простой синтаксис и множество разнообразных библиотек и фреймворков, которые помогут в достижении нужной задачи.&lt;/p&gt;
-&lt;p&gt;Python является хорошим вариантом для целей науки о данных (data science), и это утверждение справедливо как для начального, так и для продвинутого уровней работы в данной области. Большая часть науки о данных сосредоточена вокруг процесса ETL (извлечение-преобразование-загрузка). Эта особенность делает Python идеально подходящим для таких целей языком программирования.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;3. Julia&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Выпущенный чуть более 5 лет назад, Julia произвела впечатление на мир вычислительных методов. Язык добился такой популярности благодаря тому, что несколько крупных организаций, включая некоторые в финансовой отрасли, почти сразу начали использовать его для своих целей. Julia – это скомпилированный язык JIT («точно в срок»), благодаря которому удается достичь хорошей производительности. Этот язык является достаточно простым, он предусматривает возможности динамической типизации и сценариев интерпретируемого языка, такого как Python. Julia был предназначен для проведения численного анализа, он также может рассматриваться в качестве языка программирования общего назначения. Конечно, этот язык имеет свои недостатки, основным из которых является его молодость. У этого языка пока недостаточно пакетов программ, однако через несколько лет он сможет потягаться со своими основными конкурентами.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Заключение&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Научное программирование и языки, на которых с ним можно работать, приобретают небывалую популярность из-за прогресса, который идет в нашем обществе. Оно позволяет ученым развивать технологии и превращать наш мир в &amp;ldquo;мир будущего&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;R, which is a direct descendant of the older S programming language, was released way back in 1995 and has been getting better and better ever since. Written in languages such as C and Fortran, it is now supported by the R Foundation for Statistical Computing. An excellent set of high-quality, open-source, subject-oriented packages. R has packages available for almost every quantitative and statistical application imaginable. This includes neural networks, nonlinear regression, phylogenetics, building complex charts, graphs, and much, much more. Along with the basic setup, we are given the option to install extensive built-in functions and methods as an add-on. R is a powerful language with a huge variety of statistical and visualization applications and its open source nature has gathered a large following of developers. It is because of its effectiveness for initial purposes that this programming language has been able to achieve widespread popularity.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;2. Python&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Python is one of the most popular programming languages at the moment. It has a simple syntax and a variety of different libraries and frameworks to help achieve the desired task.&lt;/p&gt;
+&lt;p&gt;Python is a good option for data science purposes, and this is true for both entry-level and advanced data science jobs. Much of data science is centered around the ETL (extract-transform-load) process. This feature makes Python an ideal programming language for such purposes.&lt;/p&gt;
+&lt;p&gt;*3. Julia&lt;/p&gt;
+&lt;p&gt;Released just over 5 years ago, Julia impressed the world of computational methods. The language achieved such popularity because several large organizations, including some in the financial industry, almost immediately began using it for their purposes. Julia is a compiled JIT (&amp;ldquo;just-in-time&amp;rdquo;) language that achieves good performance. It is a fairly simple language, with dynamic typing and scripting capabilities of an interpreted language such as Python. Julia was designed to do numerical analysis, it can also be considered as a general-purpose programming language. Of course, this language has its shortcomings, the main one being its youth. This language doesn&amp;rsquo;t have enough software packages yet, but in a few years it will be able to compete with its main competitors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scientific programming and the languages with which it can be handled are gaining unprecedented popularity because of the progress that is being made in our society. It allows scientists to advance technology and transform our world into the &amp;ldquo;world of the future.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя 4 неделя</title>
-      <link>https://example.com/post/week4/</link>
+      <title>My fours week</title>
+      <link>https://parfenovaee.github.io/post/week4/</link>
       <pubDate>Mon, 23 May 2022 21:52:12 +0300</pubDate>
-      <guid>https://example.com/post/week4/</guid>
-      <description>&lt;p&gt;Моя неделя была насыщенной и продуктивной. Я сделала несколько Лабораторных работ (в этот раз их было больше, чем обычно), две из которых были по Операционным системам. Это были Лабораторные работы №11 и №12. Немного поговорим о них.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;(Лабораторная работа №11&lt;/em&gt;*&lt;/p&gt;
-&lt;p&gt;Целью работы было:&lt;/p&gt;
+      <guid>https://parfenovaee.github.io/post/week4/</guid>
+      <description>&lt;p&gt;My week was full and productive. I did several labs (this time there were more than usual), two of which were on Operating Systems. These were labs #11 and #12. Let&amp;rsquo;s talk a little bit about them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lab work №11&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The purpose of the work was:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Изучить основы программирования в оболочке ОС UNIX.&lt;/p&gt;
+&lt;p&gt;To learn the basics of UNIX shell programming.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Научится писать более сложные командные файлы с использованием логических управляющих конструкций и циклов.&lt;/p&gt;
+&lt;p&gt;To learn how to write more complex command files using logical control structures and loops.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Эта лабораторная работа была достаточно сложной, поэтому потребовала много времени на выполнение. В ходе нее я написала 4 командных файла, предназначенных для выполнения разных задач.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Лабораторная работа №12&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Целью работы было:&lt;/p&gt;
+&lt;p&gt;This lab work was quite complicated, so it took a long time to complete. During it I wrote 4 command files designed to perform different tasks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory Work №12&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The purpose of the work was:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Изучить основы программирования в оболочке ОС UNIX.&lt;/p&gt;
+&lt;p&gt;To learn the basics of UNIX shell programming.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Научиться писать более сложные командные файлы с использованием логических управляющих конструкций и циклов.&lt;/p&gt;
+&lt;p&gt;To learn how to write more complex command files using logical control structures and loops.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В этой Лабораторной работе я написала три командных файла, один из которых реализовал команду man. Также в ходе работы я научилась использовать встроенную переменную RANDOM.&lt;/p&gt;
-&lt;p&gt;Очень интересной оказалась Лабораторная работа по математическому моделированию, где мы программируем на Python. Я потратила на нее достаточно много времени, однако все-таки выполнила ее, исправляя ошибки, появлявшиеся по ходу. В ходе работы я изучила достаточно много новых функций и методов, а также узнала новые подходы к решению задач.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Вывод&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Таким образом, за прошедшую неделю я улучшила свои навыки программирования в командной оболочке, а также намного лучше изучила синтаксис Python.&lt;/p&gt;
+&lt;p&gt;In this lab work, I wrote three command files, one of which implemented the man command. I also learned how to use the built-in RANDOM variable.&lt;/p&gt;
+&lt;p&gt;Very interesting was the Lab work on mathematical modeling, where we program in Python. It took me quite a long time, but I got it done, correcting errors that appeared along the way. During the course of the work, I learned quite a few new functions and methods, as well as new approaches to solving problems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Thus, over the past week I have improved my shell programming skills, as well as learned much more about Python syntax.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя 3 неделя</title>
-      <link>https://example.com/post/week3/</link>
+      <title>My third week</title>
+      <link>https://parfenovaee.github.io/post/week3/</link>
       <pubDate>Tue, 17 May 2022 23:17:26 +0300</pubDate>
-      <guid>https://example.com/post/week3/</guid>
-      <description>&lt;p&gt;Прошедшая неделя была продуктивной. Я снова сделала несколько лабораторных работ, две из которых стабильно были по Операционным системам. Это были Лабораторные работы №9 и №10. Немного расскажу о них.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Лабораторная работа №9&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Целью Лабораторной работы было:&lt;/p&gt;
+      <guid>https://parfenovaee.github.io/post/week3/</guid>
+      <description>&lt;p&gt;This past week has been a productive one. I did several labs again, two of which were steadily on Operating Systems. These were labs #9 and #10. Let me tell you a little bit about them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory Work №9&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The purpose of the lab work was:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Познакомиться с операционной системой Linux&lt;/li&gt;
-&lt;li&gt;Получить практические навыки работы с редактором Emacs&lt;/li&gt;
+&lt;li&gt;To get acquainted with the operating system Linux&lt;/li&gt;
+&lt;li&gt;To get practical skills in working with the Emacs editor&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В этой Лабораторной работе я познакомилась с достаточно сложным, но интересным редактором Emacs. Научилась работать с окнами и буферами, а также редактировать текст с помощью горячих клавиш. Этот редактор понравился мне больше, чем тот, с которым я знакомилась ранее, из-за разнообразия своего функционала.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Лабораторная работа №10&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Целью Лабораторной работы было:&lt;/p&gt;
+&lt;p&gt;In this laboratory work I was introduced to a fairly complex but interesting editor Emacs. I learned how to work with windows and buffers as well as how to edit text using keyboard shortcuts. I liked this editor more than the ones I had previously learned about, because of the variety of its functionality.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory Work №10&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The goal of the laboratory work was:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Изучить основы программирования в оболочке ОС UNIX/Linux.&lt;/li&gt;
-&lt;li&gt;Научиться писать небольшие командные файлы.&lt;/li&gt;
+&lt;li&gt;To learn the basics of UNIX/Linux shell programming.&lt;/li&gt;
+&lt;li&gt;To learn how to write small command files.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Эта Лабораторная работа первая в курсе, где мы начали программировать. Она познакомила меня с командной оболочкой. Благодаря ней я научилась писать небольшие скрипты, которые облегчают пользователю работу с операционной системой. Эта работа была достаточно интересной.&lt;/p&gt;
-&lt;p&gt;Я все также продолжаю осваивать Python на курсе математического моделирования и делать лабораторные по этому предмету.&lt;/p&gt;
-&lt;p&gt;Чуть-чуть о хорошем. Активный отдых на улице, особенно когда там есть погода, замечательная вещь. Не стоит о нем забывать. Особенно если с компанией. Особенно если любимое дело.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Вывод&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Таким образом, на прошедшей неделе я ознакомилась с новым текстовым редактором, написала несколько небольших командных файлов, продолжила программировать на Python и не забыла хорошенько отдохнуть.&lt;/p&gt;
+&lt;p&gt;This lab work was the first in the course where we started programming. It introduced me to the command shell. Through it I learned how to write small scripts that make it easier for the user to work with the operating system. This work was quite interesting.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m still continuing to learn Python in my mathematical modeling course and doing labs on the subject.&lt;/p&gt;
+&lt;p&gt;A little bit about the good stuff. Being active outside, especially when the weather is there, is a wonderful thing. You shouldn&amp;rsquo;t forget about it. Especially if with company. Especially if it&amp;rsquo;s a favorite activity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So, this past week I have been familiarizing myself with the new text editor, writing a few small team files, continuing to program in Python, and remembering to have a good rest.&lt;/p&gt;
+&lt;p&gt;Translated with &lt;a href=&#34;https://www.DeepL.com/Translator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.DeepL.com/Translator&lt;/a&gt; (free version)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Офрмление отчета</title>
-      <link>https://example.com/post/report/</link>
+      <title>Report formatting</title>
+      <link>https://parfenovaee.github.io/post/report/</link>
       <pubDate>Tue, 17 May 2022 23:12:07 +0300</pubDate>
-      <guid>https://example.com/post/report/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В этой статье вы узнаете, как правильно оформлять отчеты. Познакомитесь со структурой и правилами оформления скриншотов.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Содержание&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Отчет и его структура&lt;/li&gt;
-&lt;li&gt;Составляющие отчета&lt;/li&gt;
-&lt;li&gt;Правила оформления скриншотов&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Отчет и его структура&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Отчет&lt;/em&gt; — сообщение, доклад о своих действиях, работе.&lt;/p&gt;
-&lt;p&gt;Отчет обязательно должен содержать:&lt;/p&gt;
+      <guid>https://parfenovaee.github.io/post/report/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In this article you will learn how to properly draw reports. Get acquainted with the structure and rules of screenshot design.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Report and Structure
+2. Components of the report
+3. How to design screenshots&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Report and its structure&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Report&lt;/em&gt; - message, report about your actions, work.&lt;/p&gt;
+&lt;p&gt;The report must contain:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;титульный лист&lt;/li&gt;
-&lt;li&gt;цель работы&lt;/li&gt;
-&lt;li&gt;задание&lt;/li&gt;
-&lt;li&gt;ход работы&lt;/li&gt;
-&lt;li&gt;вывод&lt;/li&gt;
+&lt;li&gt;title page&lt;/li&gt;
+&lt;li&gt;work purpose&lt;/li&gt;
+&lt;li&gt;task&lt;/li&gt;
+&lt;li&gt;work progress&lt;/li&gt;
+&lt;li&gt;conclusion&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В зависимости от специфики отчета он может также содержать теоретическое введение, ответ на контрольные вопросы&lt;/p&gt;
-&lt;p&gt;Отчет может быть выполнен в любом текстовом редакторе, который вам доступен. Например, классический Word или LibreOffice. Я в настоящее время выполняю отчеты в редакторе на языке разметки Markdown, поэтому это тоже вполне возможно. Главное — понимать цели.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Составляющие отчета&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Титульный лист.&lt;/em&gt; Должен содержать информацию о названии работы, по которой пишется отчет, и о человеке, выполнившем эту работу.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Цель работы.&lt;/em&gt; В этом разделе, очевидно, расписывается цель (или цели) работы, которых планировалось достигнуть.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Задание.&lt;/em&gt; Под этим подзаголовком пишется задание, которое было необходимо выполнить. Как вариант, задание пишется в ходе работы рядом с каждым из номеров.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Ход работы.&lt;/em&gt; Это основной раздел отчета. В нем поэтапно расписывается каждый шаг, выполняемый в процессе работы. К каждому из выделенных шагов прикрепляется скриншот, который наглядно показывает и доказывает выполнение работы. Также этот раздел может содержать и другие элементы, исходя опять же из специфики отчета. Например, листинги программ, схемы цепей вставки из статей и так далее.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Вывод.&lt;/em&gt; Этот раздел завершает отчет и содержит в себе результат выполняемой работы. Обычно вывод совпадает с целями работы.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Правила оформления скриншотов&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Важно знать, как правильно прилагать скриншот к отчету. Это нельзя сделать бездумно, просто вставив картинку в документ.&lt;/p&gt;
-&lt;p&gt;В первую очередь необходимо в тексте отчета указать ссылку на нужный рисунок, то есть подписать его номер рядом с нужным предложением. После необходимо вставить сам скриншот и обязательно пописать его. Подпись включает в себя номер рисунка (был указан ранее) и его название, соответствующее происходящему.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Заключение&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В этой статье мы познакомились с понятием «отчет», его структурой и правилами оформления.&lt;/p&gt;
+&lt;p&gt;Depending on the specifics of the report, it may also contain a theoretical introduction, an answer to the control questions&lt;/p&gt;
+&lt;p&gt;The report can be made in any text editor that is available to you. For example, the classic Word or LibreOffice. I am currently doing reports in a Markdown editor, so this is also quite possible. The key is to understand the objectives.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Components of the report&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A cover page.&lt;/em&gt; Should contain information about the name of the job for which the report is being written and the person who did the job.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Purpose of the work.&lt;/em&gt; This section obviously spells out the purpose (or purposes) of the work that was planned to be achieved.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Task.&lt;/em&gt; Under this subheading, the task that was to be performed is written. Alternatively, the assignment is written in the course of the work next to each of the numbers.&lt;/p&gt;
+&lt;p&gt;*This is the main section of the report. It describes each step by step, carried out in the course of the work. To each of the selected steps attached a screenshot, which clearly shows and proves the performance of the work. This section may also contain other elements, based again on the specifics of the report. For example, program listings, circuit diagrams, inserts from articles, and so on.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conclusion.* This section concludes the report and contains the result of the work performed. Usually the conclusion coincides with the goals of the work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The rules of screenshot design&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;It is important to know how to attach a screenshot to the report correctly. This cannot be done thoughtlessly by simply inserting a picture into the document.&lt;/p&gt;
+&lt;p&gt;First of all, in the text of the report you need to specify a link to the required image, i.e. sign the number next to the required sentence. After that, you need to insert a screenshot itself and be sure to write it. The caption includes the number of the figure (was specified earlier) and its title, corresponding to what is happening.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In this article we got acquainted with the concept of &amp;ldquo;report&amp;rdquo;, its structure and design rules.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Язык разметки Markdown</title>
-      <link>https://example.com/post/markdown/</link>
+      <title>Markup language Markdown</title>
+      <link>https://parfenovaee.github.io/post/markdown/</link>
       <pubDate>Thu, 12 May 2022 14:49:49 +0300</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В этой статье вы узнаете краткую информацию о легковесном языке разметки  Markdown.&lt;/p&gt;
-&lt;p&gt;Содержание:&lt;/p&gt;
+      <guid>https://parfenovaee.github.io/post/markdown/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This article will give you a brief introduction to the Markdown lightweight markup language.&lt;/p&gt;
+&lt;p&gt;Content:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Что такое Markdown и как он появился?&lt;/p&gt;
+&lt;p&gt;What is Markdown and how did it come about?&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Причины использовать Markdown&lt;/p&gt;
+&lt;p&gt;Reasons to use Markdown&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Синтаксис Markdown&lt;/p&gt;
+&lt;p&gt;Markdown syntax.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Что такое Markdown и как он появился?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Markdown — облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемости человеком, и пригодный для машинного преобразования в языки для продвинутых публикаций. (Например, HTML) Первоначально создан Джоном Грубером  и Аароном Шварцем в 2004 году, целью которых являлось создание максимально удобочитаемого и удобного в публикации облегчённого языка разметки. Первой реализацией Markdown стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Причины использовать Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**What is Markdown and how did it appear?&lt;/p&gt;
+&lt;p&gt;Markdown is a lightweight markup language designed to denote formatting in plain text, with maximum human readability, and suitable for machine translation into languages for advanced publishing. (e.g. HTML) Originally created by John Gruber and Aaron Schwartz in 2004, whose goal was to create a lightweight markup language that was as readable and publishable as possible. The first Markdown implementation was written by Gruber, in Perl, but a number of third-party implementations have since appeared&lt;/p&gt;
+&lt;p&gt;** Reasons to use Markdown**&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Простое оформление текста без изысков быстрая подгтовка материал к публикации без сложной вёрстки.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s very easy to write text without frills, you can quickly get your docs ready for publication without any complicated layout.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Создание блога или сайта, где будут размещаться тексты с лаконичным дизайном.&lt;/p&gt;
+&lt;p&gt;Creating a blog or website to host texts with a concise design.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Красивые сообщения в WhatsApp или Telegram.&lt;/p&gt;
+&lt;p&gt;Beautiful messages on WhatsApp or Telegram.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Написание документации к своему проекту на GitHub
-Все эти случаи объединяет одно — сделать минимальную вёрстку текста так, чтобы он выглядел опрятно и чтобы его можно было прочитать без специальных программ.&lt;/p&gt;
+&lt;p&gt;writing documentation for your project on GitHub.
+All of these cases have one thing in common - to make a minimal text layout so that it looks neat and can be read without special programs.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Синтаксис Markdown&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;В этом разделе приведено небольшое руководство по использованию Markdown, однако здесь рассматриваются далеко не все примеры.&lt;/p&gt;
-&lt;p&gt;Заголовки оформляются с помощью решетки. У них есть пять уровней (пять размеров). Одна решетка — первый уровень (самый крупный заголовок); пять решеток — пять уровней (самый маленький заголовок).&lt;/p&gt;
-&lt;p&gt;Выделение слов или текста осуществляются с помощью знака звездочка (*).Одна звездочка с каждой стороны выделяемого слова (текста) — курсив; Две звездочки — жирное выделение; три звездочки — жирный курсив.&lt;/p&gt;
-&lt;p&gt;Чтобы зачеркнуть текст необходимо поставить возле него две тильды (~).&lt;/p&gt;
-&lt;p&gt;Нумерованные списки делаются с помощью цифр с точкой, причем цифры не обязательно ставить по прорядку. То есть даже если вы поставите 1, 5, 10, то список в итоге выйдет с цифрами по порядку. Чтобы сделать маркированный список, нужно поставить тире. Внутренние списки оформляются с помощью двух «Tab».&lt;/p&gt;
-&lt;p&gt;Блоки цитирования создаются с помощью символа „&amp;gt;“.&lt;/p&gt;
-&lt;p&gt;Чтобы вставить ссылку необходим вот такой синтаксис:&lt;/p&gt;
-&lt;p&gt;[текст гиперссылки](URL-адреса или имени файла, на который дается ссылка)&lt;/p&gt;
-&lt;p&gt;Рисунок можно вставить подобным образом, только нужно поставить восклицательный знак:&lt;/p&gt;
-&lt;p&gt;![Название рисунка](ссылка на изображение)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Заключение&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Лекговесный язык разметки Markdown очень удобен, если пользователю необходимо в короткие сроки оформить текст в лаконичном стиле. Его синтаксис очень прост и много времени на его изучение не понадобится&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Markdown Syntax&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This section will give you a quick tutorial on how to use Markdown but not all the examples you will find here.&lt;/p&gt;
+&lt;p&gt;Markdown headings use a grid. They have five levels (five dimensions). One grid is level one (the largest heading); five grids are five levels (the smallest heading).&lt;/p&gt;
+&lt;p&gt;You can select words or text with an asterisk (*).One asterisk on each side of the word (text) to be selected is italicized; Two asterisks are bold; Three asterisks are bold italicized.&lt;/p&gt;
+&lt;p&gt;To cross out the text, you must put two squiggles (~) next to it.&lt;/p&gt;
+&lt;p&gt;Numbered lists are done with numbers and a dot, and the numbers do not have to be put in order. That is even if you put 1, 5, 10, the list will end up with numbers in order. To make a bulleted list, you need to put a dash. Internal lists are made with the help of two &amp;ldquo;Tab&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Blocks of citations are created using the symbol &amp;ldquo;&amp;gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;To insert a link, you need this syntax:&lt;/p&gt;
+&lt;p&gt;[hyperlink text](the URL or filename to which the link is given)&lt;/p&gt;
+&lt;p&gt;A picture can be inserted like this, but with an exclamation mark:&lt;/p&gt;
+&lt;p&gt;![Figure name](link to image)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The Markdown markup language is very useful when the user needs to quickly produce concise text. Its syntax is very simple and you won&amp;rsquo;t need much time to learn it&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя 2 Неделя</title>
-      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <title>My second week</title>
+      <link>https://parfenovaee.github.io/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Thu, 12 May 2022 14:49:00 +0300</pubDate>
-      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;p&gt;Я не заметила, как прошла эта неделя. В этот  раз я решила не затягивать со сдачей Лабораторных работ, поэтому начала делать их еще на выходных. В итоге, в настоящий момент, я сделала Лабораторные работы №7 и №8 по Операционным системам и две Лабораторных работы на языке С++. Не могу сказать, что это вызвало у меня большие трудности, однако пришлось поработать. Поговорим немного о Лабораторных работах по Операционным системам.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Лабораторная работа №7&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Целью Лабораторной работы было:&lt;/p&gt;
+      <guid>https://parfenovaee.github.io/post/%D0%BC%D0%BE%D1%8F-2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <description>&lt;p&gt;I did not notice how this week passed. This time I decided not to delay delivery of the Labs, so I started doing them at the weekend. As a result, at the moment, I did Labs 7 and 8 on Operating Systems and two Labs in C++. I can&amp;rsquo;t say it caused me much difficulty, but it did take some work. Let&amp;rsquo;s talk a little bit about the lab projects on Operating Systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory work №7&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of the lab work was to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;освоение основных возможностей командной оболочки Midnight Commander&lt;/li&gt;
-&lt;li&gt;приобретение навыков практической работы по просмотру каталогов и файлов и манипуляций с ними.&lt;/li&gt;
+&lt;li&gt;mastering the basic features of the Midnight Commander command shell&lt;/li&gt;
+&lt;li&gt;acquiring practical skills in browsing and manipulating directories and files.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В ходе этой работы я хорошо ознакомилась с  Midnight Commander. Изучила его структуру и меню, а также выполнила много операций, используя только управляющие клавиши. Второе задание Лабораторной работы научило меня работать с текстовым редактором mc.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Лабораторная работа №8&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Целью Лабораторной работы было:&lt;/p&gt;
+&lt;p&gt;In the course of this work I became well acquainted with Midnight Commander. I studied its structure and menus and performed many operations using only the control keys. The second assignment of the laboratory work taught me how to work with the text editor mc.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory work №8&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The purpose of the lab work was to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;познакомиться с операционной системой Linux&lt;/li&gt;
-&lt;li&gt;получить практические навыки работы с редактором vi, установленным по умолчанию практически во всех дистрибутивах.&lt;/li&gt;
+&lt;li&gt;to get acquainted with the Linux operating system&lt;/li&gt;
+&lt;li&gt;get practical skills in working with the editor vi, which is installed by default in almost all distributions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Эта Лабораторная работа научила меня работать с текстовым редактором vi, познакомила с его основными режимами и способами их использования. Благодаря ней я узнала основные горячие клавиши для выполнения многих операций редактирования.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Вывод&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Таким образом, за прошедшую неделю я познакомилась с командной оболочкой Midnight Commander и с распространенным редактором vi, научилась выполнять различные операции в них. Продолжила развиваться в программировании на С++ и не забыла про отдых.&lt;/p&gt;
+&lt;p&gt;This laboratory work taught me how to use the text editor vi and introduced me to its main modes and how to use them. Thanks to it I learned the basic hotkeys for performing many editing operations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So, over the past week I have learned to use the Midnight Commander shell and the common editor vi, and learned how to perform various operations with them. I continued to develop in C++ programming and did not forget about recreation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями. Git</title>
-      <link>https://example.com/post/git/</link>
+      <title>Version control. Git</title>
+      <link>https://parfenovaee.github.io/post/git/</link>
       <pubDate>Fri, 06 May 2022 19:55:31 +0300</pubDate>
-      <guid>https://example.com/post/git/</guid>
+      <guid>https://parfenovaee.github.io/post/git/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Введение&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Этот пост познакомит вас с термином «система управления версиями». Вы узнаете о git, принципах его работы и о том, что нужно сделать, чтобы начать с ним работать.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Содержание&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This post will introduce you to the term &amp;ldquo;version control system&amp;rdquo;. You&amp;rsquo;ll learn about git, how it works, and what you need to do to get started.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contents&lt;/strong&gt;.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Что такое система управления версиями&lt;/li&gt;
-&lt;li&gt;Где применяются системы управления версиями&lt;/li&gt;
-&lt;li&gt;Что такое git, и как он работает&lt;/li&gt;
-&lt;li&gt;Работа с Git&lt;/li&gt;
-&lt;li&gt;Критика git&lt;/li&gt;
+&lt;li&gt;What is a version control system&lt;/li&gt;
+&lt;li&gt;Where version control systems are used
+What git is and how it works&lt;/li&gt;
+&lt;li&gt;Working with Git&lt;/li&gt;
+&lt;li&gt;A critique of git&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Что такое система управления версиями?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Система управления версиями (также используется определение «система контроля версий», от англ. Version Control System, VCS или Revision Control System) — программное обеспечение для облегчения работы с изменяющейся информацией. Система управления версиями позволяет хранить несколько версий одного и того же документа, при необходимости возвращаться к более ранним версиям, определять, кто и когда сделал то или иное изменение, и многое другое.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Где применяются системы управления версиями?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Такие системы наиболее широко используются при разработке программного обеспечения для хранения исходных кодов разрабатываемой программы. Однако они могут с успехом применяться и в других областях, в которых ведётся работа с большим количеством непрерывно изменяющихся электронных документов. В частности, системы управления версиями применяются в Системах автоматизированного проектирования, обычно в составе систем управления данными об изделии (PDM). Управление версиями используется в инструментах конфигурационного управления (Software Configuration Management Tools).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Что такое git, и как он работает?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Git — абсолютный лидер по популярности среди современных систем управления версиями. Это развитый проект с активной поддержкой и открытым исходным кодом. Система git была изначально разработана в 2005 году Линусом Торвальдсом — создателем ядра операционной системы Linux. Git применяется для управления версиями в рамках колоссального количества проектов по разработке ПО, как коммерческих, так и с открытым исходным кодом. Система используется множеством профессиональных разработчиков программного обеспечения. Она превосходно работает под управлением различных операционных систем и может применяться со множеством интегрированных сред разработки (IDE).
-Контроль версий позволяет вам посмотреть изменения на любом этапе разработки, а также вернуться к любому моменту.  Но это не совсем так. Изменения сохраняются в виде коммитов. По-русски - фиксация. Вы делаете начальный коммит, чтобы сохранить начальное состояние проекта, а затем для каждого изменения. Это работает как снимки состояния.&lt;/p&gt;
-&lt;p&gt;Кроме того, git позволяет отправлять данные на удаленный сервер. Отправляются не только готовая версия, но и все снимки, таким образом, любой человек из команды может посмотреть историю изменений. К каждому снимку нужно делать комментарий, так работа с git будет проще и понятнее.&lt;/p&gt;
-&lt;p&gt;Разработка в git ориентирована на обеспечение высокой производительности, безопасности и гибкости распределенной системы.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Работа с git&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Чтобы начать работать с git,  нужно сделать некоторые действия.  Сначала пользователь должен создать учетную запись на GitHub.  Затем через терминал необходимо установить и настроить некоторые функции и параметры, которые могут понадобиться. Следующим шагом является создание удаленного репозитория (или его клонирование) и подключение к нему системы. В принципе, git готов к работе. Нужные файлы можно локально (в системе) переносить в нужные директории и прописывать команды, которые согласуют локальный репозиторий. Команды: - git add .  - сохранение изменений текущего каталога; -git commut — пояснение к изменениям; - git push — отправка в центральный репозиторий. Есть еще одна команда, которую лучше выполнять перед предыдущими тремя. Это команда git pull, которая загружает изменения, внесенные кем-то другим (или с другой системы).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Заключение&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Git нередко критикуют за сложность освоения: одни термины могут быть незнакомы новичкам, а другие — иметь иное значение. Тем не менее git — очень мощная система, предлагающая пользователям широкие возможности. Их изучение займет какое‑то время, однако усвоенные навыки помогут участникам команды работать намного быстрее.&lt;/p&gt;
+&lt;p&gt;**What is a version control system?&lt;/p&gt;
+&lt;p&gt;A version control system (also defined as &amp;ldquo;version control system&amp;rdquo;, from Version Control System, VCS or Revision Control System) is software to facilitate working with changing information. Version control system allows you to store several versions of the same document, to return to earlier versions if necessary, to find out who made this or that change and many other things.&lt;/p&gt;
+&lt;p&gt;**Where are version control systems used?&lt;/p&gt;
+&lt;p&gt;Such systems are most commonly used in software development to store the source code of the program being developed. However, they can also be successfully applied in other areas where large numbers of continuously changing electronic documents are handled. In particular, version control systems are used in Computer Aided Design Systems, usually as part of Product Data Management (PDM) systems. Version control is used in Software Configuration Management Tools.&lt;/p&gt;
+&lt;p&gt;**What is git and how does it work?&lt;/p&gt;
+&lt;p&gt;Git is the absolute leader in popularity among modern version control systems. It is a developed project with active support and open source. The git system was originally developed in 2005 by Linus Torvalds - the creator of the Linux operating system kernel. Git is used for version control in a huge number of software development projects, both commercial and open source. The system is used by many professional software developers. It works perfectly on different operating systems and can be used with many integrated development environments (IDEs).
+Version control allows you to see changes at any stage of development and go back to any point.  But that&amp;rsquo;s not quite the case. Changes are saved as commits. In Russian, it&amp;rsquo;s a commit. You make an initial commit to save the initial state of the project, and then for each change. This works like a snapshot of the state.&lt;/p&gt;
+&lt;p&gt;In addition, git allows you to send data to a remote server. Not only the finished version is sent, but all of the snapshots are sent, so anyone on the team can see the history of changes. Each snapshot should have a comment, so it&amp;rsquo;s easier to work with git and make it easier to understand.&lt;/p&gt;
+&lt;p&gt;Development in git is focused on providing high performance, security and flexibility of the distributed system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Working with git&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Getting started with git requires a few steps.  First, you&amp;rsquo;ll need to create a GitHub account.  Next, set up and configure any features and options you may need via a terminal. The next step is to create a remote repository (or clone it) and connect the system to it. Basically, git is ready to go. You can move the files you need locally (on the system) to the correct directories and write commands that coordinate the local repository. The commands are: - git add .  - save changes to the current directory; -git commut - explain changes; - git push - send to the central repository. There is one other command that is better to run before the previous three. This is the git pull command, which loads changes made by someone else (or from another system).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Git has often been criticized for being difficult to learn because some terms may be unfamiliar to newcomers and others may have different meanings. This being said, git is a very powerful system and offers many great features. It will take some time to learn, but the skills learned will help team members work much faster.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Моя 1 Неделя</title>
-      <link>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
+      <title>My first week</title>
+      <link>https://parfenovaee.github.io/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Fri, 06 May 2022 19:49:46 +0300</pubDate>
-      <guid>https://example.com/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
+      <guid>https://parfenovaee.github.io/post/%D0%BC%D0%BE%D1%8F-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
       <description>&lt;hr&gt;
-&lt;p&gt;Моя неделя была насыщенной и продуктивной. Помимо удовлетворения личных интересов в целом  я сделала четыре лабораторные работы, две из которых были по Операционным системам. Это были Лабораторные работы №5 и №6&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Лабораторная работа №5&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Лабораторная работа называлась «Анализ файловой системы Linux. Команды для работы с файлами и каталогами».&lt;/p&gt;
-&lt;p&gt;Ее целью было:&lt;/p&gt;
+&lt;p&gt;My week was full and productive. In addition to satisfying my personal interests in general, I did four labs, two of which were on Operating Systems. These were labs #5 and #6.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lab Work №5&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The lab work was called &amp;ldquo;Analyzing the Linux File System. Commands for working with files and directories&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Its purpose was to:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;ознакомление с файловой системой Linux, её структурой, именами и содержанием каталогов.&lt;/li&gt;
-&lt;li&gt;приобретение практических навыков по применению команд для работы с файлами и каталогами, по управлению процессами (и работами), по проверке использования диска и обслуживанию файловой системы.&lt;/li&gt;
+&lt;li&gt;To get acquainted with the Linux file system, its structure, names and contents of directories.&lt;/li&gt;
+&lt;li&gt;To gain practical skills in using commands to work with files and directories, managing processes (and jobs), checking disk usage, and maintaining the file system.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В ходе этой работы я подробно изучила команды &lt;em&gt;&lt;strong&gt;сp&lt;/strong&gt;&lt;/em&gt; и &lt;em&gt;&lt;strong&gt;mv&lt;/strong&gt;&lt;/em&gt;, вспомнила команды &lt;em&gt;&lt;strong&gt;cat&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;touch&lt;/strong&gt;&lt;/em&gt;,&lt;em&gt;&lt;strong&gt;mkdir&lt;/strong&gt;&lt;/em&gt;. Прочла о том, что такое права доступа и научилась изменять с помощью команды chmod. Воспользовавшись командой man, узнала подробнее о командах термнала.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Лабораторная работа №6&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Тема следующей Лабораторной работы была «Поиск файлов. Перенаправление ввода-вывода. Просмотр запущенных процессов»&lt;/p&gt;
-&lt;p&gt;Цель работы: ознакомление с инструментами поиска файлов и фильтрации текстовых данных. Приобретение практических навыков: по управлению процессами (и заданиями), по проверке использования диска и обслуживанию файловых систем.&lt;/p&gt;
-&lt;p&gt;Лабораторная работа позволила узнать мне о потоках ввода-вывода и научила обращаться с ними (например, перенаправлять стандартный поток вывода (ls) в нужный мне файл). Также я изучила работу команд &lt;em&gt;&lt;strong&gt;find&lt;/strong&gt;&lt;/em&gt; и &lt;em&gt;&lt;strong&gt;grep&lt;/strong&gt;&lt;/em&gt;, научилась запускать фоновые процессы, получать о них информацию  и устранять их командой &lt;em&gt;&lt;strong&gt;kill&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Также на прошедшей неделе я продолжила осваивать язык программирования C++ и начала изучать новый, с которым никогда до этого не работала — Python.&lt;/p&gt;
-&lt;p&gt;Таким образом, за прошедшую неделю я изучила различные команды терминала Linux, которые позволяют работать с файлами, и продолжила развиваться в программировании.&lt;/p&gt;
+&lt;p&gt;During this work, I studied the &lt;em&gt;&lt;strong&gt;sr&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;mv&lt;/strong&gt;&lt;/em&gt; commands in detail, remembered the &lt;em&gt;&lt;strong&gt;cat&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;touch&lt;/strong&gt;&lt;/em&gt;,&lt;em&gt;&lt;strong&gt;mkdir&lt;/strong&gt;&lt;/em&gt; commands. I also learned what permissions are and how to modify them with the command chmod. Using the man command I learned more about the thermal commands.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Laboratory Work №6&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The topic of the next lab work was &amp;ldquo;Finding Files. Redirecting I/O. View running processes&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Purpose of work: getting acquainted with the tools of file search and text data filtering. Gaining practical skills: on managing processes (and tasks), checking disk usage and maintaining file systems.&lt;/p&gt;
+&lt;p&gt;The lab work helped me learn about I/O streams and how to handle them (for example, redirecting the standard output stream (ls) to the file I needed). Also I learnt how to use the &lt;em&gt;&lt;strong&gt;find&lt;/strong&gt;&lt;/em&gt; and &lt;em&gt;&lt;strong&gt;grep&lt;/strong&gt;&lt;/em&gt; commands, to run background processes, to get information about them and to eliminate them with the &lt;em&gt;&lt;strong&gt;kill&lt;/strong&gt;&lt;/em&gt; command.&lt;/p&gt;
+&lt;p&gt;Also, during the last week, I have continued to learn C++ programming language and started to learn a new one which I have never worked with before - Python.&lt;/p&gt;
+&lt;p&gt;Thus, during the past week I have learned different Linux terminal commands that allow me to work with files and continued to develop my programming skills.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://parfenovaee.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://parfenovaee.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
